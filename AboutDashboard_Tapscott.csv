@@ -1,0 +1,34 @@
+About this Dashboard
+Description of the data contained within this dashboard:
+This dashboard contains the “1.08 Crash Data Report (detail)” from the City of Tempe’s Open Data Portal collected by the Arizona Department of Transportation (ADOT). You can access the dataset here: https://data.tempe.gov/datasets/tempegov::1-08-crash-data-report-detail/about
+"The dataset includes data pertaining to crashes involving a vehicle and another unit (i.e., another vehicle, a pedestrian, or a bicycle). This dataset was last updated on April 11, 2024 and was originally published on June 11, 2018."
+An overview of the dashboard's purpose:
+"The purpose of this dashboard is to enable accurate and efficient analysis of crash-related data so as to prevent future harm and crashes within the City of Tempe. Such harm is preventable and can be mitigated against if an accurate understanding of the crashes is obtained. More specifically, an understanding of the context immediately prior to, and during a crash, and driver characteristics (such as driving under the influence)."
+A brief explanation of each tab
+At the top of every tab are four boxes which aggregate the total number of…
+o   Crashes
+o   Injuries
+o   Fatalities
+"Additionally, the final box calculates a rate of harm (of at least one person being injured or killed)."
+
+Day & Time: This tab enables the user to explore crash data by day(s) of the week and time of the day. Note that multiple days of the week can be selected as well as a span of time.
+
+"Age, Gender, and Method: This tab allows a user to explore crash data filtered by driver and unit characteristics. More specifically, age, gender, and form of transportation (i.e., unit). Please note, a user can select a range of years in age."
+
+"Comparisons: This tab contains the same content as the previous “Age, Gender, & Method” tab, but enables the user to compare crash-related data between drivers. Again, driver characteristics can be selected: age and gender."
+
+"Influence of Substances: Here users can explore crash-related data depending on the influence the driver was under (i.e., under no apparent influence, alcohol, drugs, or alcohol & drugs). Additionally, the user can control for the age of the drivers."
+
+"Driver Action Prior to Incident: Within this tab, users can filter crash-related data based on the last action, prior to the crash, taken by Driver 1 and Driver 2."
+
+Weather & Light Conditions: This tab allows a user to filter crash-related data depending on the weather and light conditions at the time of the crash.
+"User should pay particular attention to the aggregated data found at the top of each tab, this will enable users to have a quantitative understanding as to how much a shift in variables (e.g., light condition or driving under the influence) is shifting the number of crashes, injuries, fatalities, and rate of harm."
+
+
+About this Author
+Corina Tapscott Novoa
+"A social work professional passionate about the fundamental role research, data, evaluation, and community collaboration can play in preventing violence within our communities and promoting the holistic well-being of all community members. Skilled in interdisciplinary collaboration, nonprofit organizations, program management, research and data analysis, writing and communications, and empathic, trauma-informed direct service provision. Previously awarded $10,000 to co-design and -execute an international research project focused on bystander intervention as a means of primary prevention of sexual and relationship violence on college campuses. Graduated summa cum laude with a Master of Social Work (MSW) degree at Arizona State University along with a graduate certificate in Social Science Research Methods. Currently pursuing a second Master’s degree in Program Evaluation and Data Analytics from ASU and serving as a Management Research Analyst for ASU’s University Office of Evaluation and Educational Effectiveness (UOEEE)."
+LinkedIn: https://www.linkedin.com/in/corina-tapscott/
+Email: corina.tapscott@asu.edu
+
+Special thanks to Dr. Jesse Lecy for the base dashboard in which this present dashboard was created and Dr. Giovanni Circo for their continued guidance as an ASU professor.
